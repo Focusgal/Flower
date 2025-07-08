@@ -1,0 +1,43 @@
+body{
+    background-color:wheat;
+}
+.head{
+    color: skyblue;
+    text-align: center;
+}
+.box{
+    background-color: gray;
+    border: none;
+    border-radius: 50px;
+    padding: 35px 35px;
+    width: 450px;
+    margin-inline-start: 30%;
+}
+input{
+    padding: 4px;
+    margin: 14px;
+    width: 100%;
+    border: none;
+    color: brown;
+}
+button{
+    background-color:palevioletred;
+    border: none;
+    border-radius: 15px;
+    padding: 12px;
+    color: black;
+    width: 135px;
+    height: 35px;
+    cursor: pointer;
+    margin-inline-start: 40%;
+  
+    
+    
+}
+button:hover{
+    color: aqua;
+    font-size: medium;
+}
+.p1{
+    text-align: center;
+}

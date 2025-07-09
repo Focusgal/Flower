@@ -104,3 +104,17 @@ footer{
     font-size: 120%;
     color: aqua;
 }
+.reg{
+    border: none;
+    margin: 1%;
+    width: 150px;
+    height: 35px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: palevioletred;
+    margin-inline-start: 40%;
+    color:palevioletred ;
+    font-size: 120%;
+    float: right;
+    
+}
